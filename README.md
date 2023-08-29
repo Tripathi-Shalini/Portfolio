@@ -1,2 +1,2 @@
 # Portfolio
-Creating my interactive resume with Reacts JS, Bootstrap , CSS
+My interactive resume with Reacts JS, Bootstrap , CSS, Jotai
